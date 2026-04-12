@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "name": "AstraBook Student Laptop 14",
+    "description": "The AstraBook Student Laptop 14 is built for classes, projects, and everyday productivity with a lightweight body and a crisp full HD display. Its battery is designed to last through lectures, commutes, and evening study sessions without constant charging. Fast storage, quiet cooling, and a responsive keyboard make it a dependable choice for students and remote workers.",
+    "category": "Electronics",
+    "price": 48999
+  },
+  {
+    "id": "2",
+    "name": "NovaCam Budget Smartphone X5",
+    "description": "The NovaCam Budget Smartphone X5 combines a bright display, reliable 5G performance, and a camera system tuned for clear daylight and portrait shots. It includes optimized battery management so users can stream, browse, and chat throughout the day with confidence. The slim design and generous storage make it a practical pick for value-focused buyers.",
+    "category": "Electronics",
+    "price": 16999
+  },
+  {
+    "id": "3",
+    "name": "SonicWave Noise Cancelling Headphones",
+    "description": "SonicWave Noise Cancelling Headphones deliver immersive audio with balanced bass, clear vocals, and active noise reduction for travel or office use. The cushioned ear cups stay comfortable during long listening sessions, online classes, and video meetings. A long-lasting battery and quick pairing support seamless everyday convenience.",
+    "category": "Electronics",
+    "price": 6999
+  },
+  {
+    "id": "4",
+    "name": "VisionPad 11 Tablet",
+    "description": "The VisionPad 11 Tablet offers a vivid screen and smooth multitasking for reading, sketching, watching videos, and attending virtual meetings. Its portable design fits easily into backpacks while the stereo speakers add a more engaging entertainment experience. Support for note-taking apps and long battery life makes it useful for work and study alike.",
+    "category": "Electronics",
+    "price": 22999
+  },
+  {
+    "id": "5",
+    "name": "PixelPro Mirrorless Camera",
+    "description": "PixelPro Mirrorless Camera captures detailed photos with fast autofocus and strong low-light performance for trips, events, and creative projects. The interchangeable lens system gives beginners room to grow while keeping the body compact and travel friendly. Wi-Fi transfer and intuitive controls help creators edit and share quickly.",
+    "category": "Electronics",
+    "price": 58999
+  },
+  {
+    "id": "6",
+    "name": "EchoBeat Portable Bluetooth Speaker",
+    "description": "EchoBeat Portable Bluetooth Speaker fills small rooms and outdoor spaces with punchy sound and clear vocals in a compact waterproof design. Its durable shell is made for picnics, poolside listening, and casual travel without feeling bulky. The long battery life and stable wireless connection make it easy to keep music going all day.",
+    "category": "Electronics",
+    "price": 3499
+  },
+  {
+    "id": "7",
+    "name": "ChargeDock 3-in-1 Wireless Stand",
+    "description": "ChargeDock 3-in-1 Wireless Stand powers a phone, earbuds, and smartwatch together while keeping a desk or bedside table organized. The angled stand is useful for notifications, video calls, and hands-free streaming during charging. Built-in temperature protection and anti-slip support improve safety and everyday reliability.",
+    "category": "Electronics",
+    "price": 2799
+  },
+  {
+    "id": "8",
+    "name": "UltraView 50-inch 4K Smart TV",
+    "description": "UltraView 50-inch 4K Smart TV brings sharp picture quality, vibrant colors, and easy access to streaming apps for family entertainment. Multiple connectivity options support gaming consoles, soundbars, and media devices without hassle. Voice control and a clean interface make browsing shows and movies simple for every age group.",
+    "category": "Electronics",
+    "price": 37999
+  },
+  {
+    "id": "9",
+    "name": "GameGrip RGB Wireless Mouse",
+    "description": "GameGrip RGB Wireless Mouse is engineered for precise tracking, low-latency clicks, and smooth gliding in competitive play or detailed creative work. Customizable DPI settings help users switch between fast movement and exact control depending on the task. Its ergonomic shape reduces fatigue during long gaming or editing sessions.",
+    "category": "Electronics",
+    "price": 1999
+  },
+  {
+    "id": "10",
+    "name": "PulseFit Smartwatch Active",
+    "description": "PulseFit Smartwatch Active tracks heart rate, workouts, sleep quality, and step goals in a slim design suited for daily wear. The bright display is easy to read outdoors and supports notifications, alarms, and quick fitness summaries. Water resistance and multi-day battery life make it convenient for active routines.",
+    "category": "Electronics",
+    "price": 5499
+  },
+  {
+    "id": "11",
+    "name": "EverSoft Winter Puffer Jacket",
+    "description": "The EverSoft Winter Puffer Jacket is insulated for chilly commutes, travel, and outdoor evenings while staying surprisingly lightweight. Its wind-resistant shell helps lock in warmth and the lined pockets keep hands comfortable in cold weather. A clean silhouette and neutral colors make it easy to pair with everyday winter outfits.",
+    "category": "Clothing",
+    "price": 3299
+  },
+  {
+    "id": "12",
+    "name": "TrailWeave Thermal Hoodie",
+    "description": "TrailWeave Thermal Hoodie blends a soft brushed interior with breathable fabric that works well for cool mornings, hikes, and layering. The hood and ribbed cuffs help retain warmth without making the fit feel heavy or restrictive. It is a versatile option for casual wear, light trekking, and winter travel.",
+    "category": "Clothing",
+    "price": 1899
+  },
+  {
+    "id": "13",
+    "name": "UrbanFlex Stretch Jeans",
+    "description": "UrbanFlex Stretch Jeans offer a modern tapered fit with enough flexibility for commuting, casual office days, and long hours out. The denim has a soft hand feel while maintaining structure and durability after repeated washing. Subtle styling makes them easy to dress up with shirts or keep relaxed with tees and sneakers.",
+    "category": "Clothing",
+    "price": 1799
+  },
+  {
+    "id": "14",
+    "name": "CloudCotton Everyday T-Shirt",
+    "description": "CloudCotton Everyday T-Shirt is made from breathable combed cotton that feels soft against the skin during daily wear. The cut is relaxed enough for comfort while still looking neat under jackets, overshirts, or hoodies. Fade-resistant colors and reinforced stitching support long-term use and easy maintenance.",
+    "category": "Clothing",
+    "price": 699
+  },
+  {
+    "id": "15",
+    "name": "SummitShield Rain Jacket",
+    "description": "SummitShield Rain Jacket uses a water-resistant outer layer and sealed seams to handle light rain, wind, and unpredictable travel weather. Ventilated panels help reduce overheating during brisk walks, commutes, and outdoor activities. The foldable hood and packable design make it practical for backpacks and weekend trips.",
+    "category": "Clothing",
+    "price": 2599
+  },
+  {
+    "id": "16",
+    "name": "FormLine Formal Shirt",
+    "description": "FormLine Formal Shirt features crisp tailoring, breathable fabric, and wrinkle resistance suited for office wear and formal gatherings. The collar stays sharp throughout the day while the fit allows comfortable movement during meetings and travel. It pairs easily with trousers, blazers, or dark denim for a polished look.",
+    "category": "Clothing",
+    "price": 1499
+  },
+  {
+    "id": "17",
+    "name": "BreezeLoom Summer Kurta",
+    "description": "BreezeLoom Summer Kurta is crafted from airy fabric that stays comfortable in warm weather while offering an elegant everyday silhouette. The lightweight weave supports long festive days, family outings, and casual office settings without feeling stuffy. Its subtle patterns and side slits add movement and refined style.",
+    "category": "Clothing",
+    "price": 1599
+  },
+  {
+    "id": "18",
+    "name": "MoveEase Yoga Leggings",
+    "description": "MoveEase Yoga Leggings provide gentle compression and four-way stretch for yoga, walking, home workouts, and errands. The waistband is designed to stay in place while the moisture-wicking material helps keep the fit dry and comfortable. A smooth finish and clean lines make them easy to style beyond the gym.",
+    "category": "Clothing",
+    "price": 1299
+  },
+  {
+    "id": "19",
+    "name": "ClassicWarm Wool Sweater",
+    "description": "ClassicWarm Wool Sweater combines soft knit texture with dependable insulation for winter layering and evening outings. The medium-weight construction keeps warmth balanced so it feels cozy without being bulky indoors. Ribbed cuffs, a timeless neckline, and durable yarn help it stay a seasonal staple.",
+    "category": "Clothing",
+    "price": 2199
+  },
+  {
+    "id": "20",
+    "name": "VistaFit Travel Cargo Pants",
+    "description": "VistaFit Travel Cargo Pants are designed for movement with stretch fabric, secure pockets, and a tapered profile that suits trips and active weekends. The material resists wrinkles and dries faster than traditional heavy cotton for easier packing and maintenance. They work well for trekking, airport travel, and casual city wear.",
+    "category": "Clothing",
+    "price": 1999
+  },
+  {
+    "id": "21",
+    "name": "RunLite Cushion Running Shoes",
+    "description": "RunLite Cushion Running Shoes are built with responsive midsoles and breathable uppers to support daily jogs, treadmill sessions, and beginner training plans. The cushioning softens impact while the outsole provides steady grip on roads and tracks. Their lightweight construction helps runners stay comfortable over longer distances.",
+    "category": "Footwear",
+    "price": 3499
+  },
+  {
+    "id": "22",
+    "name": "StreetCore Everyday Sneakers",
+    "description": "StreetCore Everyday Sneakers combine clean styling with supportive insoles for all-day city wear, college use, and relaxed office outfits. The padded collar and flexible sole improve comfort during long walks and regular commuting. Neutral colors and a simple profile make them easy to pair with jeans, joggers, or chinos.",
+    "category": "Footwear",
+    "price": 2799
+  },
+  {
+    "id": "23",
+    "name": "AlpineGrip Trekking Boots",
+    "description": "AlpineGrip Trekking Boots use rugged soles, ankle support, and weather-resistant materials to handle rocky paths and cold terrain. The cushioned interior helps reduce fatigue during longer hikes and weekend trekking adventures. Durable construction and toe protection make them dependable for outdoor travel.",
+    "category": "Footwear",
+    "price": 4599
+  },
+  {
+    "id": "24",
+    "name": "CloudStep Walking Sandals",
+    "description": "CloudStep Walking Sandals feature adjustable straps, soft footbeds, and lightweight cushioning for warm-weather travel and everyday errands. The outsole gives steady traction on smooth urban surfaces and light outdoor paths. Their breathable design keeps feet comfortable during extended summer use.",
+    "category": "Footwear",
+    "price": 1699
+  },
+  {
+    "id": "25",
+    "name": "LunaRise Block Heels",
+    "description": "LunaRise Block Heels offer elegant height with a stable base that feels more comfortable for weddings, parties, and formal dinners. The cushioned footbed helps reduce pressure through longer events and standing periods. Their polished finish works beautifully with dresses, sarees, and tailored evening outfits.",
+    "category": "Footwear",
+    "price": 2499
+  },
+  {
+    "id": "26",
+    "name": "OfficeCraft Leather Loafers",
+    "description": "OfficeCraft Leather Loafers deliver a refined look for office wear while keeping the fit flexible enough for regular commuting and daily meetings. The upper has a polished finish and the cushioned insole supports comfort during long workdays. They pair naturally with trousers, chinos, and smart casual ensembles.",
+    "category": "Footwear",
+    "price": 3199
+  },
+  {
+    "id": "27",
+    "name": "CozyNest Indoor Slippers",
+    "description": "CozyNest Indoor Slippers wrap the feet in soft lining and gentle cushioning for comfortable use around the house. The anti-slip sole improves grip on tiles and smooth floors, making them practical for everyday indoor routines. Their easy slip-on shape and lightweight feel make them a relaxing home essential.",
+    "category": "Footwear",
+    "price": 899
+  },
+  {
+    "id": "28",
+    "name": "SprintMax Training Shoes",
+    "description": "SprintMax Training Shoes support gym sessions, circuit workouts, and mixed training routines with stable midsoles and grippy outsoles. The upper is breathable enough for warm indoor environments while side support helps during quick directional movement. They balance athletic function with a sporty everyday look.",
+    "category": "Footwear",
+    "price": 3899
+  },
+  {
+    "id": "29",
+    "name": "MonsoonGuard Waterproof Boots",
+    "description": "MonsoonGuard Waterproof Boots are built for rainy commutes and wet conditions with a sealed exterior and dependable tread. The cushioned interior keeps the fit wearable for longer days without sacrificing practical protection. Their clean, rugged silhouette works for both utility and seasonal style.",
+    "category": "Footwear",
+    "price": 2899
+  },
+  {
+    "id": "30",
+    "name": "AirMesh Slip-On Casual Shoes",
+    "description": "AirMesh Slip-On Casual Shoes use a breathable knit upper and flexible sole that make them easy to wear for travel, errands, and everyday movement. The slip-on entry saves time while the insole remains soft enough for extended walking. Their minimalist design makes them suitable for both relaxed and smart casual outfits.",
+    "category": "Footwear",
+    "price": 2199
+  },
+  {
+    "id": "31",
+    "name": "Atomic Habits",
+    "description": "Atomic Habits explains how tiny behavioral changes can compound into powerful long-term improvement across work, health, and personal life. The book uses practical examples, simple frameworks, and memorable storytelling to make habit formation easier to apply. It is especially useful for readers focused on self-improvement, discipline, and sustainable routines.",
+    "category": "Books",
+    "price": 499
+  },
+  {
+    "id": "32",
+    "name": "Deep Work",
+    "description": "Deep Work explores how focused, distraction-free effort can create more meaningful output in a noisy digital world. The author combines strategy, research, and examples to help readers build better concentration habits. It is a strong choice for professionals, students, and creators who want to improve productivity.",
+    "category": "Books",
+    "price": 550
+  },
+  {
+    "id": "33",
+    "name": "The Psychology of Money",
+    "description": "The Psychology of Money breaks down how emotions, behavior, and personal history shape financial decisions more than pure math alone. Short, engaging chapters make complex money lessons approachable for beginners and regular savers. Readers looking for better judgment around spending, investing, and long-term thinking will find it practical.",
+    "category": "Books",
+    "price": 429
+  },
+  {
+    "id": "34",
+    "name": "Think and Grow Rich",
+    "description": "Think and Grow Rich presents classic ideas about ambition, persistence, and goal setting through success-focused principles and anecdotes. The book emphasizes mindset, organized planning, and self-belief in language that continues to inspire many readers. It remains popular among people seeking motivational and entrepreneurial reading.",
+    "category": "Books",
+    "price": 299
+  },
+  {
+    "id": "35",
+    "name": "The Mountain Is You",
+    "description": "The Mountain Is You examines self-sabotage, emotional patterns, and inner growth in a reflective yet accessible style. It offers readers tools for building resilience, self-awareness, and healthier responses to personal challenges. The thoughtful guidance makes it appealing for readers interested in healing and self-development.",
+    "category": "Books",
+    "price": 399
+  },
+  {
+    "id": "36",
+    "name": "Ikigai",
+    "description": "Ikigai blends philosophy, lifestyle insights, and real-world habits around purposeful living and sustainable well-being. The writing is calm and easy to follow, with ideas focused on balance, routine, and meaningful everyday choices. It is well suited to readers seeking reflection, motivation, and a gentler approach to success.",
+    "category": "Books",
+    "price": 350
+  },
+  {
+    "id": "37",
+    "name": "Rich Dad Poor Dad",
+    "description": "Rich Dad Poor Dad introduces simple but influential ideas about assets, liabilities, and financial education through contrasting life lessons. The book is written in an approachable style that often resonates with readers new to personal finance. It is commonly recommended for anyone beginning to think about money habits and wealth building.",
+    "category": "Books",
+    "price": 399
+  },
+  {
+    "id": "38",
+    "name": "The Alchemist",
+    "description": "The Alchemist is a short, reflective novel about dreams, courage, and following a deeply personal sense of purpose. Its symbolic storytelling and memorable lines create an uplifting reading experience that feels both simple and meaningful. Many readers enjoy it as an inspirational book during periods of change or uncertainty.",
+    "category": "Books",
+    "price": 320
+  },
+  {
+    "id": "39",
+    "name": "Sapiens",
+    "description": "Sapiens offers a sweeping narrative about human history, culture, and how societies evolved across thousands of years. The book combines big ideas with readable explanations that keep complex themes engaging for general readers. It is ideal for people who enjoy thoughtful nonfiction and broad perspective.",
+    "category": "Books",
+    "price": 699
+  },
+  {
+    "id": "40",
+    "name": "The 7 Habits of Highly Effective People",
+    "description": "The 7 Habits of Highly Effective People presents a structured framework for personal leadership, communication, and long-term effectiveness. The habits are explained with practical examples that apply to work, relationships, and self-management. It remains a dependable choice for readers wanting timeless self-improvement guidance.",
+    "category": "Books",
+    "price": 599
+  },
+  {
+    "id": "41",
+    "name": "FrostAir 1.5 Ton Inverter AC",
+    "description": "FrostAir 1.5 Ton Inverter AC cools medium-sized rooms efficiently while adjusting power usage to reduce energy waste over time. Multiple modes support fast cooling, sleep comfort, and quieter operation for homes and apartments. The filter system and smart controls improve convenience during hot summer months.",
+    "category": "Home Appliances",
+    "price": 35999
+  },
+  {
+    "id": "42",
+    "name": "PureWash Front Load Washing Machine",
+    "description": "PureWash Front Load Washing Machine handles everyday laundry with efficient water usage, fabric-friendly cycles, and a spacious drum. The machine includes dedicated programs for cottons, delicates, and quick washes to suit different schedules. Quiet performance and strong cleaning results make it useful for busy households.",
+    "category": "Home Appliances",
+    "price": 28499
+  },
+  {
+    "id": "43",
+    "name": "CoolFresh Double Door Refrigerator",
+    "description": "CoolFresh Double Door Refrigerator provides organized storage, even cooling, and energy-conscious performance for family kitchens. Separate compartments help preserve fruits, vegetables, dairy, and frozen items with less odor mixing. The modern finish and practical shelf layout make daily use simple and efficient.",
+    "category": "Home Appliances",
+    "price": 31999
+  },
+  {
+    "id": "44",
+    "name": "QuickHeat Convection Microwave Oven",
+    "description": "QuickHeat Convection Microwave Oven supports reheating, grilling, and baking in one compact appliance for modern kitchens. Preset menus and digital controls simplify cooking for beginners while still offering flexibility for regular home use. It is a convenient choice for fast meals, snacks, and light baking.",
+    "category": "Home Appliances",
+    "price": 11499
+  },
+  {
+    "id": "45",
+    "name": "DustAway Vacuum Cleaner Pro",
+    "description": "DustAway Vacuum Cleaner Pro delivers strong suction for floors, corners, sofas, and car interiors with attachments that handle varied cleaning needs. The lightweight body and swivel movement make it easier to clean around furniture and tight spaces. Its washable filter and reusable dust container help reduce maintenance costs.",
+    "category": "Home Appliances",
+    "price": 8999
+  },
+  {
+    "id": "46",
+    "name": "BlendCraft Mixer Grinder",
+    "description": "BlendCraft Mixer Grinder is designed for chutneys, smoothies, spice grinding, and daily kitchen prep with durable jars and sharp blades. The motor is powerful enough for regular home cooking while the controls stay simple for everyday use. Its compact footprint and sturdy design fit well in busy kitchens.",
+    "category": "Home Appliances",
+    "price": 4499
+  },
+  {
+    "id": "47",
+    "name": "BrewMaster Drip Coffee Maker",
+    "description": "BrewMaster Drip Coffee Maker brews flavorful coffee with a programmable timer that helps mornings start on schedule. The reusable filter and easy-pour carafe make cleanup and serving more convenient for homes and small offices. Its warming plate keeps coffee ready without demanding constant attention.",
+    "category": "Home Appliances",
+    "price": 5299
+  },
+  {
+    "id": "48",
+    "name": "CrispToast Pop-Up Toaster",
+    "description": "CrispToast Pop-Up Toaster delivers even browning with adjustable settings for bread, buns, and breakfast favorites. The compact build suits smaller kitchens while the removable crumb tray simplifies cleanup. Reliable controls and quick heating make it a practical choice for daily breakfast routines.",
+    "category": "Home Appliances",
+    "price": 1999
+  },
+  {
+    "id": "49",
+    "name": "SteamEase Garment Steamer",
+    "description": "SteamEase Garment Steamer removes wrinkles from shirts, kurtas, dresses, and delicate fabrics with less setup than a traditional iron. The vertical steaming design is convenient for quick touch-ups before work, travel, or events. Fast heat-up time and a steady steam flow help clothes look neat in minutes.",
+    "category": "Home Appliances",
+    "price": 3799
+  },
+  {
+    "id": "50",
+    "name": "FlexCycle Home Exercise Bike",
+    "description": "FlexCycle Home Exercise Bike offers quiet indoor cardio training with adjustable resistance and a compact frame suited for apartments or home workout corners. The saddle and handlebars can be tuned for comfort across different heights and fitness levels. Its console tracks speed, distance, time, and calories to support steady exercise goals.",
+    "category": "Home Appliances",
+    "price": 14999
+  }
+]
