@@ -864,3 +864,5 @@ def main() -> None:
     with right:
         render_recommendations(products)
     render_agent(products)
+
+
