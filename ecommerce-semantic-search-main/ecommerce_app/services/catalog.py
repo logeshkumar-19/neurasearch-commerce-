@@ -197,3 +197,5 @@ def get_recommendations(product_id: str, top_k: int = 3) -> tuple[list[dict[str,
         return local_search(embeddings[index], products, backend, top_k, exclude_id=product_id), None
     except Exception as error:
         return [], f"Recommendations are unavailable right now: {error}"
+
+
