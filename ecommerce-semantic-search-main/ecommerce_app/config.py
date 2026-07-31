@@ -23,3 +23,5 @@ CATEGORY_COLORS = {
     "Books": "#22c55e",
     "Home Appliances": "#14b8a6",
 }
+
+
