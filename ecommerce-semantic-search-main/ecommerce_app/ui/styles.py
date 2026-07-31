@@ -117,3 +117,5 @@ def inject_css() -> None:
         """,
         unsafe_allow_html=True,
     )
+
+
