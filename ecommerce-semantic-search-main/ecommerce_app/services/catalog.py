@@ -199,3 +199,5 @@ def get_recommendations(product_id: str, top_k: int = 3) -> tuple[list[dict[str,
         return [], f"Recommendations are unavailable right now: {error}"
 
 
+
+
