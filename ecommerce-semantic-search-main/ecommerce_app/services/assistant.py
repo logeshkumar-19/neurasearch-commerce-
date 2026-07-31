@@ -152,3 +152,5 @@ def shopping_agent(user_input: str, selected_product_id: str | None = None) -> d
     return {"intent": intent, "answer": answer, "products": results, "error": None}
 
 
+
+
