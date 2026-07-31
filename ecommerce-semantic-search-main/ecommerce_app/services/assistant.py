@@ -150,3 +150,5 @@ def shopping_agent(user_input: str, selected_product_id: str | None = None) -> d
             f"If you want an alternative, consider {alt}."
         )
     return {"intent": intent, "answer": answer, "products": results, "error": None}
+
+
