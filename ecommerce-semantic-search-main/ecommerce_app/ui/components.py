@@ -227,3 +227,5 @@ def render_agent(products: list[dict[str, Any]]) -> None:
             st.markdown("<div class='section-heading'>Agent-Supported Products</div>", unsafe_allow_html=True)
             product_grid(result["products"], show_match=True)
     st.markdown("</div>", unsafe_allow_html=True)
+
+
