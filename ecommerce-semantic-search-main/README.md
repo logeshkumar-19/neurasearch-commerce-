@@ -40,3 +40,5 @@ ecommerce-semantic-search-main/
 
 ## Notes
 - If model downloads fail on Windows, clear any proxy variables like `HTTP_PROXY`, `HTTPS_PROXY`, and `ALL_PROXY`.
+
+
