@@ -30,3 +30,5 @@ def main() -> None:
     render_top_picks(products)
 
     render_recommendations(products)
+
+
