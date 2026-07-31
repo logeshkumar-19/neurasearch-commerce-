@@ -62,3 +62,5 @@ if __name__ == "__main__":
     sample_results = search_products("lightweight laptop for students")
     for result in sample_results:
         print(result)
+
+
